@@ -3,7 +3,7 @@ package logger_test
 import (
 	"testing"
 
-	"github.com/dbadura/kyma/common/logging/logger"
+	"github.com/dbadura/logging/logger"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

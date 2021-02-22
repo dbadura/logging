@@ -7,7 +7,7 @@ import (
 	"github.com/pkg/errors"
 
 	"github.com/go-logr/zapr"
-	"github.com/dbadura/kyma/common/logging/tracing"
+	"github.com/dbadura/logging/tracing"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 	"k8s.io/klog/v2"

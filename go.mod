@@ -1,4 +1,4 @@
-module github.com/dbadura/kyma/common/logging
+module github.com/dbadura/logging
 
 go 1.15
 
